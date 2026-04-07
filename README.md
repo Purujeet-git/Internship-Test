@@ -129,8 +129,8 @@ Live Demo: **Add your deployed Vercel link here**
 
 Example:
 
-```md[
-https://your-project.vercel.app](https://internship-test-gamma.vercel.app/)
+```md[(https://internship-test-gamma.vercel.app/)]
+
 ```
 
 ---
