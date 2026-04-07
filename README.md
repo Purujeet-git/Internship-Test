@@ -1,36 +1,148 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🚀 Internship Test Project
 
-## Getting Started
+A modern web application built as part of an internship technical assessment to demonstrate **frontend development, clean UI design, reusable components, and scalable project structure**.
 
-First, run the development server:
+This project showcases practical development skills including:
+- ⚡ Modern React / Next.js architecture
+- 🎨 Clean and responsive UI
+- 🧩 Reusable component-based design
+- 📦 API integration / dynamic data handling
+- 🛠️ Maintainable folder structure
+- 📱 Mobile-first responsiveness
+
+---
+
+## 📌 Project Overview
+
+The goal of this project is to demonstrate real-world frontend engineering practices expected in a professional internship role.
+
+It focuses on:
+- Writing clean and readable code
+- Building scalable UI components
+- Managing application state effectively
+- Structuring files for long-term maintainability
+- Delivering polished user experience
+
+---
+
+## 🛠️ Tech Stack
+
+- **Framework:** Next.js
+- **Library:** React.js
+- **Language:** JavaScript
+- **Styling:** CSS / Tailwind CSS
+- **State Management:** React Hooks
+- **Deployment:** Vercel
+- **Version Control:** Git + GitHub
+
+---
+
+## 📂 Folder Structure
+
+```bash
+Internship-Test/
+│── app/
+│── components/
+│── public/
+│── styles/
+│── utils/
+│── package.json
+│── README.md
+```
+
+---
+
+## ⚙️ Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Purujeet-git/Internship-Test.git
+```
+
+Move into the project folder:
+
+```bash
+cd Internship-Test
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open in browser:
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+```bash
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## ✨ Features
 
-To learn more about Next.js, take a look at the following resources:
+- ✅ Responsive UI design
+- ✅ Clean reusable components
+- ✅ Dynamic rendering
+- ✅ API/data integration
+- ✅ User-friendly layout
+- ✅ Optimized project structure
+- ✅ Production-ready code practices
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🎯 What This Project Demonstrates
 
-## Deploy on Vercel
+This project highlights my ability to:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Build production-ready frontend applications
+- Follow clean coding practices
+- Write reusable React components
+- Structure scalable Next.js apps
+- Create responsive user experiences
+- Deliver internship-level assignments professionally
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 📸 Screenshots
+
+Add screenshots here for better presentation.
+
+Example:
+
+```md
+![Homepage Screenshot](./public/dark.jpg)
+```
+
+---
+
+## 🚀 Deployment
+
+Live Demo: **Add your deployed Vercel link here**
+
+Example:
+
+```md[
+https://your-project.vercel.app](https://internship-test-gamma.vercel.app/)
+```
+
+---
+
+## 👨‍💻 Author
+
+**Purujeet Kumar**
+
+- GitHub: https://github.com/Purujeet-git
+- LinkedIn: https://www.linkedin.com/in/purujeet-kumar-2b9bb6321/
+---
+
+## 📄 License
+
+This project is created for internship assessment and educational purposes.
