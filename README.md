@@ -129,7 +129,8 @@ Live Demo: **Add your deployed Vercel link here**
 
 Example:
 
-```md[(https://internship-test-gamma.vercel.app/)]
+```md[
+(https://internship-test-gamma.vercel.app/)]
 
 ```
 
